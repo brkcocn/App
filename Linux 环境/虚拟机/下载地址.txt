@@ -1,0 +1,12 @@
+VMware Workstation Pro 16.1.2 Build 17966106
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.2-17966106.exe
+
+VMware Workstation Pro 16.1.1 Build 17801498
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.1-17801498.exe
+
+VMware Workstation Pro 16.1.0 Build 17198959
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.0-17198959.exe
+
+VMware Workstation Pro 16.0.0 Build 16894299
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.0.0-16894299.exe
+
